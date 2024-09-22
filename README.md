@@ -1,1 +1,1 @@
-# igor.c
+# "Este projeto implementa uma lista de tarefas simples onde os usuários podem adicionar e remover tarefas. Os testes garantem o funcionamento correto das interações, utilizando Jest e JSDOM para simular o DOM."
